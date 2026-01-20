@@ -59,6 +59,12 @@
     </li>
     <li><a href="simple-hello-world/">Simple Hello World</a></li>
     <li><a href="guessing-game/">Guessing Game</a></li>
+    <li>
+      <a href="common-programming-concepts/">Common Programming Concepts</a>
+      <ol>
+        <li><a href="variables/">Variables</a></li>
+      </ol>
+    </li>
   </ol>
 </details>
 
