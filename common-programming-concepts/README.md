@@ -17,6 +17,7 @@
     <summary>Table of Contents</summary>
     <ol>
         <li><a href="variables/">Variables</a></li>
+        <li><a href="data-types/">Data Types</a></li>
     </ol>
 </details>
 
